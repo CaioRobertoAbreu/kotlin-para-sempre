@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">queryprofilegh</string>
+    <string name="name">Profile GH</string>
+    <string name="edtHintUsuario">Procure um usuário...</string>
+</resources>
